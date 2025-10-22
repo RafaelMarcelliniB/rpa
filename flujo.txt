@@ -1,0 +1,8 @@
+1. Usuario ejecuta: python rpa_inspeccion_ocular.py archivo.pdf
+2. Se crea instancia de InformeInspeccionValidator
+3. Se extrae texto del PDF
+4. Se normalizan textos (mayúsculas, sin tildes)
+5. Se buscan las 11 secciones obligatorias
+6. Se valida si cumple requisitos mínimos
+7. Se generan 3 reportes (JSON, TXT, PDF)
+8. Se muestran resultados en consola

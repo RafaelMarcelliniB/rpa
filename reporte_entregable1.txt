@@ -1,0 +1,42 @@
+================================================================================
+REPORTE DE VALIDACIÓN
+ESTUDIO TÉCNICO DE INSPECCIÓN OCULAR
+================================================================================
+
+Archivo: input/entregable1.pdf
+Fecha: 2025-10-22T12:02:33.311738
+Componente: ESTUDIO TÉCNICO DE INSPECCIÓN OCULAR
+Estado: OBSERVADO
+
+================================================================================
+
+RESULTADO DE VALIDACIÓN
+--------------------------------------------------------------------------------
+Estado: ✗ OBSERVADO
+
+Elementos faltantes:
+   • COMPATIBILIZACION DEL AREA A INTERVENIR
+   • VERIFICACION DE DATOS CONSIGNADOS EN LA PARTIDA REGISTRAL
+
+Información adicional:
+   ℹ Se encontraron 10/12 secciones
+   ℹ Documento incluye 63 fotografías distribuidas en secciones
+
+Detalles:
+   - secciones_encontradas: 10
+   - secciones_requeridas: 11
+   - secciones_totales: 12
+   - detalle_secciones: {'ANTECEDENTES': True, 'METODOLOGIA PARA LA INSPECCION': True, 'UBICACION DEL PROYECTO': True, 'ACCESOS': True, 'INFORMACION RECOGIDA DE CAMPO': True, 'INFRAESTRUCTURA EXISTENTE': True, 'SERVICIOS BASICOS EXISTENTES': True, 'LIBRE DISPONIBILIDAD DEL TERRENO': True, 'COMPATIBILIZACION DEL AREA A INTERVENIR': False, 'VERIFICACION DE DATOS CONSIGNADOS EN LA PARTIDA REGISTRAL': False, 'CONCLUSIONES Y RECOMENDACIONES': True, 'PANEL FOTOGRÁFICO (IMPLÍCITO)': True}
+   - fotografias: 63
+
+================================================================================
+
+OBSERVACIONES GENERALES:
+--------------------------------------------------------------------------------
+• El informe presenta 2 sección(es) faltante(s)
+• Secciones faltantes: COMPATIBILIZACION DEL AREA A INTERVENIR, VERIFICACION DE DATOS CONSIGNADOS EN LA PARTIDA REGISTRAL
+• El documento incluye 63 fotografías como evidencia
+
+================================================================================
+Fin del reporte
+================================================================================

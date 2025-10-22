@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "archivo": "input/entregable1.pdf",
+    "fecha_validacion": "2025-10-22T12:02:33.311738",
+    "componente": "ESTUDIO TÉCNICO DE INSPECCIÓN OCULAR",
+    "estado": "OBSERVADO"
+  },
+  "validacion": {
+    "componente": "ESTUDIO TÉCNICO DE INSPECCIÓN OCULAR",
+    "valido": false,
+    "elementos_faltantes": [
+      "COMPATIBILIZACION DEL AREA A INTERVENIR",
+      "VERIFICACION DE DATOS CONSIGNADOS EN LA PARTIDA REGISTRAL"
+    ],
+    "advertencias": [
+      "Se encontraron 10/12 secciones",
+      "Documento incluye 63 fotografías distribuidas en secciones"
+    ],
+    "detalles": {
+      "secciones_encontradas": 10,
+      "secciones_requeridas": 11,
+      "secciones_totales": 12,
+      "detalle_secciones": {
+        "ANTECEDENTES": true,
+        "METODOLOGIA PARA LA INSPECCION": true,
+        "UBICACION DEL PROYECTO": true,
+        "ACCESOS": true,
+        "INFORMACION RECOGIDA DE CAMPO": true,
+        "INFRAESTRUCTURA EXISTENTE": true,
+        "SERVICIOS BASICOS EXISTENTES": true,
+        "LIBRE DISPONIBILIDAD DEL TERRENO": true,
+        "COMPATIBILIZACION DEL AREA A INTERVENIR": false,
+        "VERIFICACION DE DATOS CONSIGNADOS EN LA PARTIDA REGISTRAL": false,
+        "CONCLUSIONES Y RECOMENDACIONES": true,
+        "PANEL FOTOGRÁFICO (IMPLÍCITO)": true
+      },
+      "fotografias": 63
+    }
+  },
+  "observaciones_generales": [
+    "El informe presenta 2 sección(es) faltante(s)",
+    "Secciones faltantes: COMPATIBILIZACION DEL AREA A INTERVENIR, VERIFICACION DE DATOS CONSIGNADOS EN LA PARTIDA REGISTRAL",
+    "El documento incluye 63 fotografías como evidencia"
+  ]
+}
